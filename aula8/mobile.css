@@ -1,0 +1,60 @@
+@media (min-width: 360px)
+{
+button{
+    margin-top: 5%;
+    background-color: blue;
+}
+
+p {
+    font-size: 9pt;
+    text-align: center;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+.terceira{
+    display: flex;
+    justify-content: center;
+}
+.article1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.article1 p {
+    font-size: 6pt;
+    margin-top: 15%;
+}
+.article2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.article2 p {
+    font-size: 6pt;
+    margin-top: 15%;
+}
+.article3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.article3 p {
+    font-size: 6pt;
+    margin-top: 15%;
+}
+.article4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.article4 p {
+    font-size: 6pt;
+    margin-top: 15%;
+}
